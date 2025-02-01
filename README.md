@@ -1,5 +1,27 @@
-# smart_address_book
+# Smart Address Book Application
 
+A web-based address book allowing users to add and search addresses efficiently. The system ensures data validation and provides a user-friendly interface for quick access to stored contacts.
+
+## Features
+
+Add New Addresses with name and location.
+
+Validations for pincode and required fields.
+
+Responsive UI built with React.js and Bootstrap.
+
+Save and search saved addresses.
+
+
+## Technologies Used
+
+Frontend: React.js, Bootstrap, Axios
+
+Backend: Node.js, Express.js, Mongoose, MongoDB
+
+Middleware: Body-Parser, CORS
+
+Deployment & Tools: GitHub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
